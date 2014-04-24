@@ -3,14 +3,14 @@
 
 	<groupId>com.pduin</groupId>
 	<artifactId>maven-sandbox</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>maven-sandbox</name>
 
 	<scm>
 		<url>https://github.com//patduin/maven-sandbox</url>
-		<connection>scm:git:ssh://github.com/patduin/maven-sandbox.git</connection>
-		<developerConnection>scm:git:ssh:git@github.com:patduin/maven-sandbox.git</developerConnection>
+		<connection>scm:git:git://github.com/patduin/maven-sandbox.git</connection>
+		<developerConnection>scm:git:git@github.com:patduin/maven-sandbox.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
